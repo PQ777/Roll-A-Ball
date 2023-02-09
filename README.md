@@ -8,6 +8,17 @@
 
 <a href = "https://youtu.be/VFHAF_uKAAc">고박사 유튜브</a>
 
+-------
+⭐사용법⭐
+
+게임명: Roll a Ball
+
+상세설명: 공을 방향키로 조종해 코인을 다 먹는 게임
+
+조작키: WASD
+
+기능: 바닥으로 떨어질시 초기화 / 포탈 / 점프대 / 코인갯수
+
 
 ![1](https://user-images.githubusercontent.com/102477933/213871980-b8c5f96d-734a-450c-8187-b9f66c8b707c.gif)
 
